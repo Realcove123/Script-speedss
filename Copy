@@ -1,0 +1,4 @@
+print("local player = ,game.Players LocalPlayer
+local character =  player.Character or player local humanoid = character:WaitForChild(
+
+humanoid WalkSpeed = 200
